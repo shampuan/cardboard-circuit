@@ -84,7 +84,7 @@ A ready-to-install Debian package is available in the Releases section.
 Download the latest `.deb` package and install it with:
 
 ```bash
-sudo dpkg -i cardboard-circuit_1.0.0_all.deb
+sudo dpkg -i cardboardcircuit.1.0.0.deb
 ```
 
 If dependency problems occur:
