@@ -5,28 +5,33 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "cardboard-circuit"
 version = "1.0.0"
+
 authors = [
-  { name="A. Serhat KILIÇOĞLU" },
+    {name = "A. Serhat KILIÇOĞLU"}
 ]
+
 description = "A racing game for children"
-requires-python = ">=3.8"
+readme = "README.md"
+requires-python = ">=3.10"
+
 dependencies = [
     "PyQt6",
     "pygame",
-    "numpy",
+    "numpy"
 ]
 
 [project.urls]
 Repository = "https://github.com/shampuan/cardboard-circuit"
 
 [project.scripts]
-cardboard-circuit = "cardboard_circuit.main:main"
+cardboard-circuit = "cardboardcircuit.main:main"
 
 [tool.setuptools]
-packages = ["cardboard_circuit"]
+packages = ["cardboardcircuit"]
 
 [tool.setuptools.package-data]
-cardboard_circuit = [
+cardboardcircuit = [
+    "caricon.png",
     "cars/*",
     "disks/*",
     "effects/*",
