@@ -6,6 +6,10 @@ Instead of a traditional racing track, the race takes place on rotating cardboar
 
 The game was designed to be simple, lightweight and easy to play, while still offering a small challenge through battery management and obstacle avoidance.
 
+<img width="860" height="584" alt="Ekran görüntüsü_2026-06-06_01-47-49" src="https://github.com/user-attachments/assets/74797571-0ec5-427f-94f3-014bd9ca482b" />
+
+<img width="1290" height="754" alt="Ekran görüntüsü_2026-06-06_01-48-16" src="https://github.com/user-attachments/assets/6a489c49-982a-4c8a-862b-362a5e6d0a1f" />
+
 ## Features
 
 - 5 different race stages
